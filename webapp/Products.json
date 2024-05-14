@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "name": "Laptop",
+            "price": 999,
+            "currency": "€"
+        },
+        {
+            "name": "Wireless Mouse",
+            "price": 25,
+            "currency": "€"
+        },
+        {
+            "name": "Tablet",
+            "price": 199,
+            "currency": "€"
+        },
+        {
+            "name": "Smartphone",
+            "price": 499,
+            "currency": "€"
+        },
+        {
+            "name": "E-Reader",
+            "price": 129,
+            "currency": "€"
+        },
+        {
+            "name": "USB-C Adapter",
+            "price": 19,
+            "currency": "€"
+        },
+        {
+            "name": "Portable Charger",
+            "price": 34,
+            "currency": "€"
+        },
+        {
+            "name": "Bluetooth Speaker",
+            "price": 59,
+            "currency": "€"
+        },
+        {
+            "name": "Wireless Headphones",
+            "price": 89,
+            "currency": "€"
+        },
+        {
+            "name": "External Hard Drive",
+            "price": 74,
+            "currency": "€"
+        }
+    ]
+}

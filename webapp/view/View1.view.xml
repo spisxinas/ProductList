@@ -1,0 +1,20 @@
+<mvc:View controllerName="productlist.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page title="Product List">
+        <content>
+            <List id="productList" items="{productsModel>/products}">
+                <items>
+                    <ObjectListItem
+                        title= "{productsModel>name}"
+                        number="{
+                            parts: ['productsModel>price','productsModel>currency']
+                            
+                        }"
+                        
+                    />
+                </items>
+            </List>
+        </content>
+    </Page>
+</mvc:View>
